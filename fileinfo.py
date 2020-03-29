@@ -4,7 +4,6 @@
 #main_top.py  Guoxuter
 #main_top.py  Guoxuter
 #main_top.py  Guoxuter
-#main_top.py  Guoxuter
 #f_list.py  guoxuter
 
 
