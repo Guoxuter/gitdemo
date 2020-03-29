@@ -259,6 +259,28 @@ def S2():
 
 
 
+def S3():
+        # print(guan_jian_ci)
+#
+    textbox = Text(top, width=60, height=40, highlightthickness=2)
+    textbox.grid(row=1, column=1, sticky=N)
+    for i in range(len(a)):
+        textbox.insert(INSERT, a[i])
+
+    # print(a)
+    
+    
+def S4():
+        # print(guan_jian_ci)
+#
+    textbox = Text(top, width=60, height=40, highlightthickness=2)
+    textbox.grid(row=1, column=1, sticky=N)
+    for i in range(len(a)):
+        textbox.insert(INSERT, a[i])
+
+    # print(a)
+
+
 
 
 
